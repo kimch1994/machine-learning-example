@@ -1,3 +1,4 @@
+#2 주차#
 from sklearn.linear_model import LinearRegression
 
 import numpy as np
